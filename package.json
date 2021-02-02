@@ -1,0 +1,23 @@
+{
+  "name": "react-typescript",
+  "version": "1.0.0",
+  "description": "FIRST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akslucky619/typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akslucky619/typescript/issues"
+  },
+  "homepage": "https://github.com/akslucky619/typescript#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
